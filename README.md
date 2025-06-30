@@ -9,11 +9,11 @@
 
     Funções obrigatórias com *:
 
-        ft_putstr, ft_strcpy, ft_strlen, ft_swap
+        ft_putstr✅, ft_strcpy✅, ft_strlen✅, ft_swap✅
 
     Do nível 2:
 
-        alpha_mirror, camel_to_snake, do_op
+        alpha_mirror✅, camel_to_snake✅, do_op✅
 
 ✅ Terça-feira – Strings complexas, listas e bits (Nível 2 e 3)
 
