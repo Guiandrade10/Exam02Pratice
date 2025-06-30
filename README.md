@@ -5,7 +5,7 @@
 
     Revisar e implementar:
 
-        first_word✅, fizz_buzz✅, repeat_alpha✅, rev_print✅, rot_13✅, rotone, search_and_replace, ulstr
+        first_word✅, fizz_buzz✅, repeat_alpha✅, rev_print✅, rot_13✅, rotone✅, search_and_replace✅, ulstr✅
 
     Funções obrigatórias com *:
 
