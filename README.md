@@ -23,11 +23,11 @@
 
     Outros:
 
-        inter✅, last_word✅, ft_is_power_2✅, max✅, print_bits, reverse_bits, swap_bits, union, snake_to_camel
+        inter✅, last_word✅, ft_is_power_2✅, max✅, print_bits✅, reverse_bits✅, swap_bits✅, union✅, snake_to_camel✅
 
     Nível 3:
 
-        add_prime_sum, expand_str, epur_str, ft_atoi_base, paramsum, print_hex, rstr_capitalizer, tab_mult
+        add_prime_sum✅, expand_str✅, epur_str✅, ft_atoi_base, paramsum, print_hex, rstr_capitalizer, tab_mult
 
 ✅ Quarta-feira – Listas, algoritmos e exercícios longos (Nível 3 e 4)
 
