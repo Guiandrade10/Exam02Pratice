@@ -19,11 +19,11 @@
 
     Funções com *:
 
-        ft_atoi, ft_strcmp, ft_strdup
+        ft_atoi✅, ft_strcmp✅, ft_strdup✅
 
     Outros:
 
-        inter, last_word, ft_is_power_2, max, print_bits, reverse_bits, swap_bits, union, snake_to_camel
+        inter✅, last_word✅, ft_is_power_2✅, max✅, print_bits, reverse_bits, swap_bits, union, snake_to_camel
 
     Nível 3:
 
